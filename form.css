@@ -1796,7 +1796,7 @@ img, video {
 
 .bg-gray-100 {
     --tw-bg-opacity: 1;
-    background-color:rgba(243, 244, 246, var(--tw-bg-opacity))
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.07) 0%, rgba(255, 255, 255, 0) 100%)
 }
 
 .bg-gray-200 {
@@ -2066,7 +2066,7 @@ img, video {
 
 .bg-indigo-500 {
     --tw-bg-opacity: 1;
-    background-color:rgba(99, 102, 241, var(--tw-bg-opacity))
+    background-color: rgba(95, 175, 12, 1)
 }
 
 .bg-indigo-600 {
@@ -21944,7 +21944,7 @@ img, video {
 
 .text-gray-400 {
     --tw-text-opacity: 1;
-    color:rgba(156, 163, 175, var(--tw-text-opacity))
+    color:rgba(95, 175, 12, 1)
 }
 
 .text-gray-500 {
