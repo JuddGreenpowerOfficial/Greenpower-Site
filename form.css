@@ -16,6 +16,7 @@ html {
 
 body {
     margin:0
+    background-color: #181d3b
 }
 
 body {
@@ -1798,6 +1799,7 @@ img, video {
     --tw-bg-opacity: 1;
     background-color: #181d3b
 }
+
 
 .bg-gray-200 {
     --tw-bg-opacity: 1;
